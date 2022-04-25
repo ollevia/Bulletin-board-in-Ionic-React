@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">Hofors Anslagstavla</string>
+    <string name="title_activity_main">Hofors Anslagstavla</string>
+    <string name="package_name">anslagstavla.hofors</string>
+    <string name="custom_url_scheme">anslagstavla.hofors</string>
+</resources>

@@ -1,0 +1,7 @@
+{
+  "name": "Hofors Anslagstavla",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "react"
+}

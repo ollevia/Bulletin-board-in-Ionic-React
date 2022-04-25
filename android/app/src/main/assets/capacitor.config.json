@@ -1,0 +1,6 @@
+{
+	"appId": "anslagstavla.hofors",
+	"appName": "Hofors Anslagstavla",
+	"webDir": "build",
+	"bundledWebRuntime": false
+}
